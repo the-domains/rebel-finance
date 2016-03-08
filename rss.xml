@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Rebel Finance]]></title>
         <description><![CDATA[Rebel Finance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rebel-finance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 18:32:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 18:38:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rebel-finance/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Rebel Finance is a crowdfunding agency focused on Branding, Social Media and Campaign Strategy to help you build a Tribe.]]></title>
-            <description><![CDATA[<article><h1>Rebel Finance is a crowdfunding agency focused on Branding, Social Media and Campaign Strategy to help you build a Tribe.</h1><p>Rebel Finance is a crowdfunding agency focused on Branding, Social Media and Campaign Strategy </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/815318e0-840e-44ee-ace2-baf948a66e83.png"></article>]]></description>
-            <link>undefinedrebel-finance-is-a-crowdfunding-agency-focused-on-branding/index.html</link>
+            <description><![CDATA[<article><h1>Rebel Finance is a crowdfunding agency focused on Branding, Social Media and Campaign Strategy to help you build a Tribe.</h1><p>Business Planning</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/224c73e08e4c7565faa2e33b453937ac96e14c90.png"></article>]]></description>
+            <link>https://thegrid.ai/rebel-finance/rebel-finance-is-a-crowdfunding-agency-focused-on-branding/index.html</link>
             <guid isPermaLink="false">fa02f33f-94b9-4489-9001-618db6d9a4ba</guid>
-            <pubDate>Tue, 08 Mar 2016 18:31:36 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 18:38:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
